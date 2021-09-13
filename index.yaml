@@ -3,14 +3,14 @@ entries:
   innocuousbook:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-13T05:28:22.752547286Z"
+    created: "2021-09-13T08:36:40.686873292Z"
     description: A Helm chart for InncouousBook
-    digest: 6cabd2c02f8b3590ee77e0699831b8db9a721b5ed8305e25f33e43149f931763
+    digest: 39bdc8fd267b5d6349ca1975c463a6e096f9039553524b8d8a50df531c4c79e4
     name: innocuousbook
     type: application
     sources:
     - https://github.com/helm/helm
     urls:
-    - https://necromancyai.github.io/innocuousbook-helm/innocuousbook-0.6.0.tgz
-    version: 0.6.0
-generated: "2021-09-13T05:28:22.751592203Z"
+    - https://necromancyai.github.io/innocuousbook-helm/innocuousbook-0.7.0.tgz
+    version: 0.7.0
+generated: "2021-09-13T08:36:40.685835297Z"
