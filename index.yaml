@@ -11,6 +11,6 @@ entries:
     sources:
     - https://github.com/helm/helm
     urls:
-    - https://necromancyai.github.io/innocuousbook-helm/innocuousbook-0.7.0.tgz
+    - https://necromancyai.github.io/innocuousbook-helm/innocuousbook-0.9.0.tgz
     version: 0.7.0
 generated: "2021-09-13T08:36:40.685835297Z"
